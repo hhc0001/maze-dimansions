@@ -1,0 +1,2 @@
+# maze-dimansions
+Maze dimensions.
